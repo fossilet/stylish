@@ -1,0 +1,2 @@
+// Pre-wrap for code reviewing.
+.CodeMirror pre { white-space: pre-wrap !important; }
