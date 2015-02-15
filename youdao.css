@@ -5,3 +5,7 @@ div.trans-wrapper#webTrans {
 div.trans-wrapper#eBaike {
     display: none
 }
+
+div#ads {
+  display: none
+}
