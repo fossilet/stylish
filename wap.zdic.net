@@ -1,0 +1,8 @@
+body {
+    width: 700px;
+    margin: 0px auto;
+}
+
+header.sheader {
+    margin-top: 4px
+}
