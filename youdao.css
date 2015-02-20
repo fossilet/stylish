@@ -1,9 +1,13 @@
+div.trans-container {
+  display: none
+}
+
 div.trans-wrapper#webTrans {
-    display: none
+  display: none
 }
 
 div.trans-wrapper#eBaike {
-    display: none
+  display: none
 }
 
 div#ads {
