@@ -13,3 +13,7 @@ div.trans-wrapper#eBaike {
 div#ads {
   display: none
 }
+
+div.trans-wrapper#ugcTrans {
+    display: none
+}
